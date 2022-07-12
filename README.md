@@ -8,6 +8,11 @@ Implementation of [scaffold-eth dex challenge](https://github.com/scaffold-eth/s
 
 Original tutorial is available here - [original tutorial](https://medium.com/@austin_48503/%EF%B8%8F-minimum-viable-exchange-d84f30bd0c90)
 
+### Rinkeby
+
+* [DEX](https://rinkeby.etherscan.io/address/0xd374858ffdd6938062724a55b42fee217988e783)
+* [Token](https://rinkeby.etherscan.io/address/0x0A615b8ad6a1578aE2e5fFf4F145dF82d1186989)
+
 ### DEX logic (Automated Market Maker for single trading pair)
 
 DEX allows to swap between ETH and Balloon tokens.
